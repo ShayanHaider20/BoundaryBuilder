@@ -1,5 +1,4 @@
-# BoundaryBuilder
-# 📊 Geometric Algorithms Visualizer
+# 📊BoundaryBuilder 
 
 ## 📌 Project Overview
 This project explores **geometric problem-solving techniques** using **C# and WinForms**, providing an interactive way to visualize computational geometry algorithms. The system enables users to **draw geometric objects** and observe step-by-step algorithm execution, making it a powerful tool for learning and analysis.
