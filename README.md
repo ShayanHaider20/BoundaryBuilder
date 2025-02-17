@@ -37,5 +37,5 @@ This project explores **geometric problem-solving techniques** using **C# and Wi
 ## 📥 Installation & Setup
 1. **Clone the repository**  
    ```sh
-   git clone https://github.com/yourusername/Geometric-Algorithms-Visualizer.git
->>>>>>> 19f82dd (Version1)
+   git clone https://github.com/ShayanHaider20/BoundaryBuilder.git
+```
