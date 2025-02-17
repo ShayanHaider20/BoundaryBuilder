@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # BoundaryBuilder
-=======
 # 📊 Geometric Algorithms Visualizer
 
 ## 📌 Project Overview
